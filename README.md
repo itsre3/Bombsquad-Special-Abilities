@@ -13,7 +13,7 @@ A special ability framework for [Bombsquad](https://github.com/efroemling/ballis
     * **Agent Johnson**: Invicinbility
     * **Grumbledorf**: Cursed domain
     * **Taobao Mascot**: Soldier
-    * ***Remaining will be added in time. Abilities are also subject to change in time
+    * ***Remaining will be added in time. Abilities are also subject to change in time.***
 * **Customize abilities to liking:**
     * In app settings system to change characters abilities, skill cooldown, skill range, e.t.c.
 * **Added text to display and show percent of ability charge.**
